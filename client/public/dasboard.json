@@ -1,0 +1,69 @@
+{
+    "metricsData": {
+        "Completed": 6,
+        "Ongoing": 12,
+        "Upcoming": 116,
+        "PendingForApproval": 6
+    },
+    "skill": {
+        "name": "Java",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSi7XYoykNTscJwr6j1-qIw7r7t2gcOTDSkFQ&usqp=CAU",
+        "trainingCount": 8,
+        "duration": 12,
+        "timePeriod": "months"
+    },
+    "yearlyStatistics": [
+        {
+            "name": "Jan",
+            "count": 10
+        },
+        {
+            "name": "Feb",
+            "count": 12
+        },
+        {
+            "name": "Mar",
+            "count": 3
+        },
+        {
+            "name": "Apr",
+            "count": 8
+        },
+        {
+            "name": "May",
+            "count": 10
+        },
+        {
+            "name": "Jun",
+            "count": 4
+        },
+        {
+            "name": "Jul",
+            "count": 10
+        },
+        {
+            "name": "Aug",
+            "count": 12
+        },
+        {
+            "name": "Sep",
+            "count": 2
+        },
+        {
+            "name": "Oct",
+            "count": 2
+        },
+        {
+            "name": "Nov",
+            "count": 0
+        },
+        {
+            "name": "Dec",
+            "count": 6
+        }
+    ],
+    "trainersCount": {
+        "total": 40,
+        "active": 20
+    }
+}
