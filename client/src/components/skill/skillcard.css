@@ -1,0 +1,10 @@
+.skill_occur{
+    text-align: center;
+    margin-top: 50px;
+}
+.skillcard{
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border-bottom: 2px solid rgb(212, 209, 209);
+}

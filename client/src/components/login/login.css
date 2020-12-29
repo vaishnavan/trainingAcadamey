@@ -1,0 +1,86 @@
+.card_left h1{
+    text-align: center;
+    
+}
+.card_container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    display: flex;
+    border: 1px solid rgb(194, 192, 192);
+    width: 60%;
+    height: 500px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(119, 116, 113, 0.5);
+    
+}
+.card_left{
+    margin-top: 80px;
+    width: 50%;
+    padding: 60px;
+}
+.card_right{
+    width: 50%;
+    background-image:linear-gradient(to right, rgb(250, 81, 14), rgb(250, 142, 41) );
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.card_right h1{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-25%,-50%); 
+    color: white;
+}
+.card_left form input[type="text"],input[type="password"]{
+    padding: 10px;
+    width: 300px;
+    font-size: 15px;
+    border: 1px solid rgba(233, 229, 229, 0.808);
+    outline: none;
+    background-color: rgba(243, 237, 237, 0.863);
+}
+.card_left .form_input{
+    margin-top: 10px;
+}
+.login_btn{
+    margin-top: 20px;
+    text-align: center;
+    
+}
+.login_btn button{
+    padding:10px 40px;
+    background-image:linear-gradient(to right, rgb(250, 81, 14), rgb(250, 142, 41) );
+    border: none;
+    border-radius: 20px;
+    border: 2px solid rgb(221, 118, 22);
+    cursor: pointer;
+    outline: none;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+}
+
+.login_btn button:hover{
+    background-color:#e92347d8;
+    
+}
+.login_err{
+    text-align: center;
+    margin: 10px;
+    
+}
+.login_err span{
+    color: red;
+    font-size: 16px;
+    
+}
+.form_input input[type="text"]:focus{
+    border: 1px solid orange;
+    box-shadow: 0 0 3px rgba(0,0,0,0.5);
+}
+.form_input input[type="password"]:focus{
+    border: 1px solid orange;
+    box-shadow: 0 0 3px rgba(0,0,0,0.5);
+}

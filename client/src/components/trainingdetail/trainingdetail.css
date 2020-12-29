@@ -1,0 +1,44 @@
+.training_learn{
+    display: flex;
+}
+.training_learndetail{
+    margin: 10px;
+    border: 1px solid rgb(224, 219, 219);
+    padding: 7px 10px;
+    border-radius:20px;
+}
+.trainig_head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.trainig_head .training_right{
+    border: 1px solid rgb(158, 155, 155);
+    padding: 7px 10px;
+    border-radius:20px;
+    background-color: rgb(228, 222, 222);
+}
+.training_card{
+    margin: 20px;
+    padding: 10px;
+    max-height: 1000px;
+    border: 1px solid rgb(206, 200, 200);
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+.status_head{
+    margin: 0 20px;
+}
+.toggle_btn{
+    float: right;
+    margin-top: -40px;
+}
+.tab-content .tab-pane{
+    background-color: white;
+}
+.training_learn .training_learndata{
+    margin: 10px;
+    padding: 3px 2px;
+    border-radius:20px;
+    color: rgb(177, 174, 174);
+}
+

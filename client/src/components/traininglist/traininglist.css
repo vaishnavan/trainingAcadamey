@@ -1,0 +1,12 @@
+.new_training{
+    float: right;
+}
+.toggle_btn {
+    display: none;
+}
+.notfound p{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 18px;
+    font-weight: 600;
+}

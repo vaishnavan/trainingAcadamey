@@ -1,0 +1,73 @@
+.select_bar select{
+    width: 300px;
+    padding: 7px 10px;
+    border: 1px solid  rgb(214, 211, 211);
+    outline: none;
+}
+.example_data{
+    color: rgb(214, 211, 211);
+}
+.trainers_select{
+    display: flex;
+    
+}
+.select_add button{
+    padding: 8px 20px;
+    margin-left: 10px;
+    border: 1px solid rgb(196, 191, 191);
+    border-radius: 5px;
+}
+.trainer_detailCard{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width:700px;
+    border: 1px solid rgb(206, 204, 204);
+    margin: 20px 0;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 3px rgba(0,0,0,0.5);
+}
+.skill_data{
+    display: flex;
+    align-items: center;
+}
+.skill_data div{
+    margin-left: 10px;
+    color: gray;
+}
+.tainers_head{
+    border: 1px solid rgb(226, 223, 223);
+    padding: 10px;
+}
+.trainer_type{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.type_button{
+    margin-left: 10px;
+}
+.trainer_type button{
+    padding: 10px;
+    background: none;
+    outline: none;
+    border: none;
+}
+.trainer_type .active{
+    background-color: rgb(23, 207, 121);
+    border:1px solid black;
+    width: 100px;
+    height: 100px;
+}
+.trainer_type div{
+    margin: 0 10px;
+}
+.type_cover{
+    border: 1px solid rgb(206, 203, 203);
+    background-color: rgb(221, 213, 213);
+    padding: 5px 3px;
+}
+.loaders{
+    margin-left:620px;
+}

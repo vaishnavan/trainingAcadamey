@@ -1,0 +1,29 @@
+
+.training_form form{
+    margin: 20px 50px;
+    padding: 10px;
+    max-height: 800px;
+    border: 1px solid rgb(206, 201, 201);
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+.training_form .row{
+    margin: 10px;
+}
+.training_form .row label{
+    margin: 10px 0;
+}
+.text-danger{
+    margin: 10px 0;
+    display: inline-block;
+    border: 1px solid rgba(189, 75, 75, 0.849);
+    padding: 3px 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 3px rgba(0,0,0,0.5);
+}
+.training_form .submit_btn{
+    margin-top: 20px;
+    margin-left: 1040px;
+}
+.submit_btn button{
+    margin: 0 5px;
+}

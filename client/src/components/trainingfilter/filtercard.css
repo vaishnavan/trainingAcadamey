@@ -1,0 +1,13 @@
+.filter_card{
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid rgb(209, 204, 204);
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    height: 220px;
+}
+.filter_head{
+    margin: 20px;
+}
+.filter_btn{
+    float: right;
+}

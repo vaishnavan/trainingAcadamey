@@ -1,0 +1,36 @@
+.active_trainer{
+    display: inline-block;
+    margin: 0 45px;
+    border-bottom: 2px solid rgb(212, 209, 209);
+    width: 300px;
+    height: 300px;
+    
+}
+.active_trainer h3{
+    padding: 10px;
+}
+.active_trainerCard{
+    text-align: center;
+}
+.active_data{
+    display: inline-block;
+    text-align: center;
+    margin-top: 50px;
+    width: 130px;
+    height: 130px;
+    border: 1px solid rgb(228, 225, 225);
+    border-radius: 50%;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.514);
+}
+.active_data h2{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.active_data h2{
+    font-size: 30px;
+}
+.active_data span{
+    font-size: 18px;
+}
